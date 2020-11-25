@@ -1,2 +1,5 @@
 Fradviam Bourdeth Montoya 1208-2001-00024
+<<<<<<< HEAD
 https://github.com/Fradviam/examen2parcial.git
+=======
+>>>>>>> parent of b1ad0e1... Update info.txt
